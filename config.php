@@ -21,7 +21,7 @@ define('DB_TABLE_PREFIX', 'oc_');
 define('REL_WEB_URL', '/');
 
 // Web address - modify here for SSL version of site
-define('WEB_PATH', 'http://sqozo.test/');
+define('WEB_PATH', 'localhost:8000');
 
 
 // *************************************** //
