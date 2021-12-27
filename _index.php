@@ -14,7 +14,8 @@
  * warranties or conditions of any kind, either express or implied. Do not remove
  * this NOTICE section as it contains license information and copyrights.
  */
-
+var_dump('sdf');
+exit();
 
 define('ABS_PATH', str_replace('//', '/', str_replace('\\', '/', dirname($_SERVER['SCRIPT_FILENAME'])) . '/'));
 
